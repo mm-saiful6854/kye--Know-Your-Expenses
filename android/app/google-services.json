@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772702267067",
+    "project_id": "know-your-expense",
+    "storage_bucket": "know-your-expense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772702267067:android:7617066bc0262e7b3fab9e",
+        "android_client_info": {
+          "package_name": "com.knowInforms.kye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772702267067-hmimf2nmvrr5jh5sf48l8g3v3rrk89us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyKm5KArhYnhacbBTBPR0xdQoKY0kbQBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772702267067-hmimf2nmvrr5jh5sf48l8g3v3rrk89us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
