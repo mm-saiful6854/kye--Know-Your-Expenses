@@ -6,4 +6,4 @@ A new Flutter project.
 
 
 ### Dashboard
-![Alt text](./assets/images/repo/dashboard.jpg "Dashboard")
+![Alt text](./assets/images/repo/dashboard.jpg =100x20)
